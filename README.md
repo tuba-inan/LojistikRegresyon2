@@ -1,0 +1,1 @@
+# LojistikRegresyon_Senior1Group
